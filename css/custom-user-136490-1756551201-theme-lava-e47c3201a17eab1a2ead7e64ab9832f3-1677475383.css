@@ -1,0 +1,54 @@
+:root {
+  --accent-color:                 #ee0000;
+  --accent-color-rgb:             238, 0, 0;
+  --accent-color-darker:          #bb0000;
+  --accent-color-darker-rgb:      187, 0, 0;
+  --accent-color-darkest-rgb:     136, 0, 0;
+  --link-color:                   #ee0000;
+  --link-color-darker:            #bb0000;
+  --border-color:                 #b8b8b8;
+  --subtitle-color:               #be0000;
+  --body-bg:                      #2e2e2e;
+  --body-bg-rgb:                  46, 46, 46;
+  --body-bg-lighter:              #3b3b3b;
+  --body-bg-darker:               #212121;
+  --body-bg-darkest:              #151515;
+  --body-color:                   #ebebeb;
+  --body-color-rgb:               235, 235, 235;
+  --body-color-darkest:           #b8b8b8;
+  --about-card-bg:                #2e2e2e;
+  --footer-color:                 #d9d9d9;
+  --footer-bg:                    #2e2e2e;
+  --caption-bg:                   #2e2e2e;
+  --lib-perfect-scrollbar-bg:     #5c5c5c;
+  --component-notify-bg:          #484848;
+  --lightness-body-5:             #3b3b3b;
+  --lightness-body-10:            #484848;
+  --font-family-primary:          'Open Sans', Helvetica, Arial, sans-serif;
+  --font-family-secondary:        'Open Sans', Helvetica, Arial, sans-serif; }
+
+/* Custom options via Theme Customizer */
+body {
+  font-weight: 300;
+  letter-spacing: 0px; }
+  @media (min-width: 70em) {
+    body {
+      font-size: 14px; } }
+.site-title a {
+  font-weight: 300;
+  letter-spacing: 4px; }
+  @media (min-width: 70em) {
+    .site-title a {
+      font-size: 24px; } }
+.site-title .site-subtitle {
+  font-weight: 300;
+  letter-spacing: 0px; }
+  @media (min-width: 70em) {
+    .site-title .site-subtitle {
+      font-size: 14px; } }
+.site-footer-copy, .site-footer .btt {
+  font-weight: 300;
+  letter-spacing: 0px; }
+  @media (min-width: 70em) {
+    .site-footer-copy, .site-footer .btt {
+      font-size: 13px; } }
